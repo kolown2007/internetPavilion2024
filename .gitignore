@@ -3,6 +3,8 @@ node_modules
 # Output
 .output
 .vercel
+.firebase.json
+/.firebase
 /.svelte-kit
 /build
 
