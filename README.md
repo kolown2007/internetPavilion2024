@@ -31,13 +31,14 @@ pre-2020, it started as a joke. There was an initial talk with Mirjam and the Si
 
 In the succeeding years, there were attempts but we moved on doing other projects. Until recently we binge-watched youtube tutorials on how to center a div and it worked! We have also had a wifi connection since 2022.
  Based on our experience and capability, the current and future iterations of this project should prioritize gadgets that have low processing and slower internet speeds. But given that limitation we are trying our best to present the works as what the artists envisioned. 
-
+<br>
 This text is edited in a markdown file on a text editor without a grammar checker. DM us for revisions.
+No essay about the internet and capitalism here—perhaps in the next update of this page.
+If you've reached this point, thank you for reading. Maybe this is better than a Sintra board or decal gallery wall text.
 
-No essay about the internet and capitalism here maybe on the next update of this page. 
 
-If you reached this point, thank you for reading, maybe this is better than a sintra board or decal  gallery wall text.
 
+<br>
 -KoloWn
 
 
