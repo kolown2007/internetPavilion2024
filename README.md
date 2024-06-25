@@ -4,14 +4,16 @@
 <br>
 
 **TL;DR**
-*Philippine Islands - Internet Pavilion* is an online project showcases works from artists creating in the Philippines. The projects vary from gifs, videos, 3D objects, to interactive webpages. The goal is to make these works accessible to people with low-quality gadgets, limited network data cap, and slower internet speeds. The project is a work in progress.
+
+*Philippine Islands - Internet Pavilion*  is an online project showcases works from artists woeking in the Philippines. The projects vary from gifs, videos, 3D objects, to interactive web pages. The goal is to make these works accessible to people with low-quality gadgets, limited network data cap, and slower internet speeds. The project is a work in progress.
 <br>
 <br>
 
 
 **History**
 
-pre-2020, it started as a joke. there was an initial talk with Mirjam  and the Siliman FA to create Visayas Islands Internet Pavilion as way where artists can still participate various festivals even if they cant travel to specific festival locations. The website and deployment pipeline were setup but there were a lot of challenges:
+pre-2020, it started as a joke. There was an initial talk with Mirjam and the Silliman FA to create Visayas Islands Internet Pavilion as a way where artists can still participate in various festivals even if they can't travel to specific festival locations. The website and deployment pipeline were setup but there were a lot of challenges:
+
 <br>
 <br>
 
@@ -27,10 +29,17 @@ pre-2020, it started as a joke. there was an initial talk with Mirjam  and the S
 
 **Now**
 
-In the succeeding days there were attempts but we moved on doing other projects. Until recently we binge-watched youtube tutorials on how to center a div and it worked!.We have also a wifi connection since 2022.
- Based on our experience and capability, the current and future iterations of this project should prioritize audiences that has low processing and slower internet speeds. The tech bros might already win in optimizing their speed for those audiences, to spread advertising and political propaganda faster as we have seen in  The internet access might change in the future 
+In the succeeding years, there were attempts but we moved on doing other projects. Until recently we binge-watched youtube tutorials on how to center a div and it worked! We have also had a wifi connection since 2022.
+ Based on our experience and capability, the current and future iterations of this project should prioritize gadgets that have low processing and slower internet speeds. But given that limitation we are trying our best to present the works as what the artists envisioned. 
 
-+
+This text is edited in a markdown file on a text editor without a grammar checker. DM us for revisions.
+
+No essay about the internet and capitalism here maybe on the next update of this page. 
+
+If you reached this point, thank you for reading, maybe this is better than a sintra board or decal  gallery wall text.
+
+-KoloWn
+
 
 
 
