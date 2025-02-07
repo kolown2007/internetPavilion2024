@@ -103,5 +103,9 @@
     });
   </script>
   
-  <canvas id="babylon-canvas" />
+  <main class ="overflow-hidden"> 
+    <canvas class ="w-full h-screen" id="babylon-canvas" />
+
+  </main>
+
   
