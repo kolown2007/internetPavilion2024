@@ -2,15 +2,7 @@
 import { initializeApp } from "firebase/app";
 import { getAnalytics, isSupported} from "firebase/analytics";
 
-const firebaseConfig = {
-  apiKey: "AIzaSyA2C_vydKpQHblBYScrUtUPSF7VrR-O4e4",
-  authDomain: "internetpavilion2024.firebaseapp.com",
-  projectId: "internetpavilion2024",
-  storageBucket: "internetpavilion2024.appspot.com",
-  messagingSenderId: "205468613342",
-  appId: "1:205468613342:web:aec9cbf39a185f392e604f",
-  measurementId: "G-7MTEVLDSWY"
-};
+const firebaseConfig = //replace firebase config here
 
 
 const app = initializeApp(firebaseConfig);
